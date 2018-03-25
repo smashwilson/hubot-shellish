@@ -1,5 +1,5 @@
 {
-  "name": "hubot-shellish-adapter",
+  "name": "hubot-shellish",
   "version": "1.0.0",
   "description": "Slightly fancier Shell adapter for Hubot development",
   "main": "index.js",
@@ -16,5 +16,11 @@
   "dependencies": {
     "chalk": "^2.3.2",
     "cline": "^0.8.2"
+  },
+  "peerDependencies": {
+    "hubot": ">=2.0"
+  },
+  "devDependencies": {
+    "hubot": "^2.19.0"
   }
 }
