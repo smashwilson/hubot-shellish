@@ -1,0 +1,20 @@
+{
+  "name": "hubot-shellish-adapter",
+  "version": "1.0.0",
+  "description": "Slightly fancier Shell adapter for Hubot development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hubot",
+    "adapter",
+    "shell"
+  ],
+  "author": "Ash Wilson <smashwilson@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "cline": "^0.8.2"
+  }
+}
