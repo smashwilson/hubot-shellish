@@ -7,7 +7,8 @@ const Stream = require('stream')
 const cline = require('cline')
 const chalk = require('chalk')
 
-const {Adapter, TextMessage, User} = require('hubot')
+const {Adapter} = require('hubot/es2015')
+const {TextMessage} = require('hubot')
 
 function envAsInt (varname, def) {
   return process.env[varname] != null ? parseInt(process.env[varname]) : def
