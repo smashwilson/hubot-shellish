@@ -18,9 +18,9 @@
     "cline": "^0.8.2"
   },
   "peerDependencies": {
-    "hubot": ">=2.0"
+    "hubot": ">=3.0"
   },
   "devDependencies": {
-    "hubot": "^2.19.0"
+    "hubot": "^3.2.0"
   }
 }
