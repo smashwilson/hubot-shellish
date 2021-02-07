@@ -14,13 +14,13 @@
   "author": "Ash Wilson <smashwilson@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "chalk": "^2.3.2",
+    "chalk": "^4.1.0",
     "cline": "^0.8.2"
   },
   "peerDependencies": {
     "hubot": ">=3.0"
   },
   "devDependencies": {
-    "hubot": "^3.2.0"
+    "hubot": "3.3.2"
   }
 }
